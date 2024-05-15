@@ -5,6 +5,7 @@
 - 📫 How to reach me: coderorca@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In the beginning, God said: "The four dimensional divergence of an asymmetrical second rank tensor equals zero" ... and there was light.
+- ✏ I also like to draw. Krita, Pro Create and Affinity Designer are one of my many tools in my arsenal.
 
 <!---
 Coderorca/Coderorca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
