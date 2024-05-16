@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Coderorca
-- 👀 I’m interested in anything that is about coding and programming
-- 🌱 I’m currently learning various programming languages
+- 👋 Hi, I’m Kevin a.k.a @Coderorca 
+- 👀 I’m interested in anything that is about Coding and Digital Art
+- 🌱 I’m currently learning various programming languages, but mostly Python right now
 - 💞️ I’m looking to collaborate on Github for now
 - 📫 How to reach me: coderorca@outlook.com
 - 😄 Pronouns: He/Him
